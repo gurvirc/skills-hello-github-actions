@@ -2,6 +2,7 @@
 
 # Hello GitHub Actions
 This is a great project! 🎉
+This is a very great project! 🎉
 _Create and run a GitHub Actions workflow._
 
 </header>
